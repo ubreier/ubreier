@@ -72,8 +72,8 @@ I am interested in remote opportunities in:
 
 - LinkedIn: https://www.linkedin.com/in/ulisses-breier/
 - REPSURGE: https://play.google.com/store/apps/details?id=com.repsurge.app
-- Portfolio: TODO: add portfolio link
-- Resume: TODO: add resume link
+- Portfolio: https://ubreier.github.io/
+- Resume: https://ubreier.github.io/assets/ulisses-breier-resume.pdf
 
 ## AI-Friendly Summary
 
